@@ -8,11 +8,11 @@
 
     GROUP BY
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c18df6c-0844-444b-af76-7ddbcda5ac79/Screen_Shot_2021-05-16_at_8.20.37_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c18df6c-0844-444b-af76-7ddbcda5ac79/Screen_Shot_2021-05-16_at_8.20.37_PM.png)
+    ![1.png](https://github.com/esther119/Learning/blob/master/SQL/1.png)
 
     PARTITION BY 
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/162bcff2-265b-47b8-a8df-86213a5fc321/Screen_Shot_2021-05-16_at_8.21.07_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/162bcff2-265b-47b8-a8df-86213a5fc321/Screen_Shot_2021-05-16_at_8.21.07_PM.png)
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/162bcff2-265b-47b8-a8df-86213a5fc321/Screen_Shot_2021-05-16_at_8.21.07_PM.png](https://github.com/esther119/Learning/blob/master/SQL/2.png)
 
     Explanation 
 
@@ -262,11 +262,11 @@
 
     ### `PIVOT` tutorial
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/230fbeaa-5551-465d-b2c1-4b9c2dfc9b62/Screen_Shot_2021-05-17_at_11.18.02_AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/230fbeaa-5551-465d-b2c1-4b9c2dfc9b62/Screen_Shot_2021-05-17_at_11.18.02_AM.png)
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/230fbeaa-5551-465d-b2c1-4b9c2dfc9b62/Screen_Shot_2021-05-17_at_11.18.02_AM.png](https://github.com/esther119/Learning/blob/master/SQL/3.png)
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25377b28-b9c2-4736-9d3e-5247dc67938d/Screen_Shot_2021-05-17_at_11.18.51_AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25377b28-b9c2-4736-9d3e-5247dc67938d/Screen_Shot_2021-05-17_at_11.18.51_AM.png)
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25377b28-b9c2-4736-9d3e-5247dc67938d/Screen_Shot_2021-05-17_at_11.18.51_AM.png](https://github.com/esther119/Learning/blob/master/SQL/4.png)
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e5e3881-ea2a-4965-8eb3-8e357b2029fa/Screen_Shot_2021-05-17_at_11.19.07_AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e5e3881-ea2a-4965-8eb3-8e357b2029fa/Screen_Shot_2021-05-17_at_11.19.07_AM.png)
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e5e3881-ea2a-4965-8eb3-8e357b2029fa/Screen_Shot_2021-05-17_at_11.19.07_AM.png](https://github.com/esther119/Learning/blob/master/SQL/5.png)
 
     [https://www.youtube.com/watch?v=ozy31aJpW-o&t=437s](https://www.youtube.com/watch?v=ozy31aJpW-o&t=437s)
 
