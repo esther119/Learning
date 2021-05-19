@@ -1,3 +1,5 @@
+#SQL Notes and Practice Problems
+
 - `Partition By`
 
     ```python
@@ -288,7 +290,7 @@ LIMIT 1 OFFSET 1
 
 The SET command is used with UPDATE to specify which columns and values that should be updated in a table.
 
-- [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
+[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
 
 ```python
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
