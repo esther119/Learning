@@ -1,4 +1,4 @@
-#SQL Notes and Practice Problems
+# SQL Notes and Practice Problems
 
 - `Partition By`
 
